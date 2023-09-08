@@ -13,5 +13,7 @@
 
 ### Usage Example:
 http://localhost:8080/apidemo/whereis?country=us&zip=27320
+
 Response:
+
 ![Screenshot of API response on postman](demo.jpg)
